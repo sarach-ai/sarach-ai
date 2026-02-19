@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarach
 - 👀 I’m interested in Quantum computing, Quantum Algorithms, Quantum Machine Learning and more.
-- I explore other computer science skills such as front-end web development, data science and python modelling,etc.
+- I explore other computer science skills such as front-end web development,computational physics, machine learning, etc.
 - 📫 How to reach me: mail on saraZchaudhary77@gmail.com
 
 <!---
